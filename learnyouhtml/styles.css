@@ -1,0 +1,11 @@
+body {
+    background-image: linear-gradient(to right, blue, cyan);
+}
+
+#block {
+    background-color: rebeccapurple;
+    border-radius: 5rem;
+    width: 5rem;
+    height: 5rem;
+    transition: transform 1s ease-in-out;
+}
